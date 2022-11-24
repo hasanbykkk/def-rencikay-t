@@ -1,1 +1,1 @@
-# def-rencikay-t
+# defogrencikayıt
